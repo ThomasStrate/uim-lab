@@ -1,3 +1,10 @@
+# UIM visual outputs
+*.gif
+*.png
+*.mp4
+illustrations/
+imperi/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
